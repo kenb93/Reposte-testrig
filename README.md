@@ -4,9 +4,9 @@ This repository hosts a small **public landing-page test rig** used to validate 
 
 ## What problem is this for?
 
-Research and experience both suggest that many business failures come from **decisions built on untested assumptions**. One widely-cited claim is that *a very large majority* of failures trace back to assumptions that were never validated early enough.
+When you investigate the *stated* causes of business failure, they often reduce to the same root: key choices were made on assumptions that stayed untested for too long.
 
-This project is an attempt to help people find **evidence** that can underpin those choices — so actions are based on *verifiable facts* rather than belief and hope.
+This project is an attempt to help people find **evidence** that can underpin those choices — so actions are based on *verifiable facts* rather than belief and hope. In general, decisions grounded in evidence tend to outperform decisions grounded in assumption.
 
 If you’re building a small business or project, it’s easy to waste weeks on:
 - unclear goals and hidden constraints
