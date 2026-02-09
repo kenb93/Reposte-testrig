@@ -3,6 +3,11 @@
 This repository hosts a small **public landing-page test rig** used to validate messaging for an early prototype.
 
 ## What problem is this for?
+
+Research and experience both suggest that many business failures come from **decisions built on untested assumptions**. One widely-cited claim is that *a very large majority* of failures trace back to assumptions that were never validated early enough.
+
+This project is an attempt to help people find **evidence** that can underpin those choices — so actions are based on *verifiable facts* rather than belief and hope.
+
 If you’re building a small business or project, it’s easy to waste weeks on:
 - unclear goals and hidden constraints
 - untested assumptions (“people will want this…”) 
